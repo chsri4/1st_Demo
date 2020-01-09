@@ -7,8 +7,8 @@ leve2 #####
 
 ##### Sample Test #####
 
-<<<<<<< HEAD
+
 @Master :1 Test
-=======
+
 @Home_attempt 1 : Test
->>>>>>> ch_Home
+
